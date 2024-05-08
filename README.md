@@ -1,3 +1,7 @@
+# READ BEFORE USING!
+
+This is a 1:1 reupload of **nullworks/cathook** repo that got deleted on both gitlab and github, including some external dependencies inside **./external/** directory, so cheat should compile fine. Scripts inside this directory are the same as in nullworks repo, so they will not work.
+
 # Cathook Training Software
 ![banner](https://user-images.githubusercontent.com/13179138/134817300-d4865695-af33-4e83-a017-5ec0d31ea0a1.png)
 
